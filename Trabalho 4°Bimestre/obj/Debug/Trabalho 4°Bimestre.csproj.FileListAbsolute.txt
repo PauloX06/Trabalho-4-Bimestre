@@ -1,0 +1,9 @@
+C:\Users\Cliente\source\repos\Trabalho 4°Bimestre\Trabalho 4°Bimestre\bin\Debug\Trabalho 4°Bimestre.exe.config
+C:\Users\Cliente\source\repos\Trabalho 4°Bimestre\Trabalho 4°Bimestre\bin\Debug\Trabalho 4°Bimestre.exe
+C:\Users\Cliente\source\repos\Trabalho 4°Bimestre\Trabalho 4°Bimestre\bin\Debug\Trabalho 4°Bimestre.pdb
+C:\Users\Cliente\source\repos\Trabalho 4°Bimestre\Trabalho 4°Bimestre\obj\Debug\Trabalho 4°Bimestre.csproj.AssemblyReference.cache
+C:\Users\Cliente\source\repos\Trabalho 4°Bimestre\Trabalho 4°Bimestre\obj\Debug\Trabalho_4_Bimestre.Properties.Resources.resources
+C:\Users\Cliente\source\repos\Trabalho 4°Bimestre\Trabalho 4°Bimestre\obj\Debug\Trabalho 4°Bimestre.csproj.GenerateResource.cache
+C:\Users\Cliente\source\repos\Trabalho 4°Bimestre\Trabalho 4°Bimestre\obj\Debug\Trabalho 4°Bimestre.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\source\repos\Trabalho 4°Bimestre\Trabalho 4°Bimestre\obj\Debug\Trabalho 4°Bimestre.exe
+C:\Users\Cliente\source\repos\Trabalho 4°Bimestre\Trabalho 4°Bimestre\obj\Debug\Trabalho 4°Bimestre.pdb
